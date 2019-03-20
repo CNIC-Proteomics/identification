@@ -1,6 +1,7 @@
-# Script "rels2pq_unique"
+# Identification
 
-## Description
+
+## Description "rels2pq_unique"
 
 The script **rels2pq_unique.rel_input.py** selects one protein for each peptide in the cases there are redundances.
 
